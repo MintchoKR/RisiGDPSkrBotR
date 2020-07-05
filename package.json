@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node main.js"
   },
-  "author": "R2Si",
+  "author": "SMJS",
   "license": "MIT",
   "dependencies": {
     "discord.js": "^11.5.1",
